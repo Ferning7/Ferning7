@@ -6,7 +6,7 @@
 [![G-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/?pli=1#inbox)
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferning7&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferning7&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferning&layout=compact)
 
 ## Tecnologias que eu uso
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
