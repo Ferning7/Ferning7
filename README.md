@@ -12,6 +12,3 @@
 
 ## Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferning7&layout=compact)
-
-## Carro dos sonhos
-![Bugatti](https://aleen42.github.io/badges/src/bugatti.svg)
