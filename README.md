@@ -1,5 +1,5 @@
 # Cursando:
-## Analise e Desenvolvimento de Sistemas & Assistente de Programação Web
+## Desenvolvimento de Sistemas & Assistente de Programação Web
 ### Senai CTTI
 
 ## Tecnologias 
