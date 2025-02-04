@@ -1,8 +1,6 @@
-### Cursando Analise e Desenvolvimento de Sistemas 
-
-## Contatos
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattheus_fern/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-fernandes-9a8517308/)
+# Cursos
+## Analise e Desenvolvimento de Sistemas 
+## Assistente de Programação Web
 
 ## Tecnologias que eu uso
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -17,3 +15,7 @@
 ![VStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ## Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferning7&layout=compact)
+
+## Contatos
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattheus_fern/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-fernandes-9a8517308/)
