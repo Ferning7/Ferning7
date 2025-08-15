@@ -1,21 +1,13 @@
-### Olá! me chamo Matheus Fernandes.
+### Olá! me chamo Matheus Fernandes
 
-## Técnico em Desenvolvimento de Sistemas
-### Cursando atualmente:
-# Assistente de Programação Web no SENAI CTTI
+## Sou Técnico em Desenvolvimento de Sistemas e<br> estou cursando atualmente Assistente de Programação Web pela Stellantis
+### -> SENAI CTTI
 
+# Sobre Mim
 <div>
   <a href="https://github.com/Ferning7">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferning7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferning7&layout=compact&langs_count=168&theme=dark"/>
-</div>
-
-
-
-<div>
-  <a href="https://www.linkedin.com/in/matheus-fernandes-dotcs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank" width="40em" />
-  <a href="https://www.linkedin.com/in/matheus-fernandes-dotcs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" target="_blank" width="40em" />
-
 </div>
 
 <picture>
@@ -25,23 +17,22 @@
 </picture>
 
 
-
-
 ## Tecnologias 
-![c#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=black)
+![c#](https://img.shields.io/badge/C%23-A020F0?style=for-the-badge&logo=c-sharp&logoColor=purple)
+![MySql](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=yellow)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 ## IDE's:
-![IntelliJIDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![VStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width=30em />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=30em />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width=30em />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" width=30em />
+</div>
 
-## Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferning7&layout=compact)
 
 ## Contatos
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattheus_fern/) 
