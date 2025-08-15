@@ -1,7 +1,8 @@
-## Cursando:
-# Desenvolvimento de Sistemas
-# Assistente de Programação Web
-### Senai CTTI
+### Olá! me chamo Matheus Fernandes.
+
+## Técnico em Desenvolvimento de Sistemas
+### Cursando atualmente:
+# Assistente de Programação Web no SENAI CTTI
 
 <div>
   <a href="https://github.com/Ferning7">
