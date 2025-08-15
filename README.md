@@ -3,6 +3,23 @@
 # Assistente de Programação Web
 ### Senai CTTI
 
+<div>
+  <a href="https://github.com/Ferning7">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferning7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferning7&layout=compact&langs_count=168&theme=dark"/>
+</div>
+
+
+
+<div>
+  <a href="https://www.linkedin.com/in/matheus-fernandes-dotcs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank" width="40em" />
+  <a href="https://www.linkedin.com/in/matheus-fernandes-dotcs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" target="_blank" width="40em" />
+
+</div>
+![Snake animation](https://github.com/Ferning7/Ferning7/blob/output/github-contribution-grid-snake.svg)
+
+
+
 ## Tecnologias 
 ![c#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=black)
