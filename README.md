@@ -16,7 +16,12 @@
   <a href="https://www.linkedin.com/in/matheus-fernandes-dotcs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" target="_blank" width="40em" />
 
 </div>
-![Snake animation](https://github.com/Ferning7/Ferning7/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
