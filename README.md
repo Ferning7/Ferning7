@@ -4,17 +4,12 @@
 ### [![Localização](https://upload.wikimedia.org/wikipedia/commons/e/ec/RedDot.svg)](https://www.google.com/maps/place/Belo+Horizonte) SENAI CTTI
 
 # Sobre Mim
+<!--
 <div>
   <a href="https://github.com/Ferning7">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferning7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferning7&layout=compact&langs_count=168&theme=dark"/>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ferning7/Ferning7/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ferning7/Ferning7/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ferning7/Ferning7/output/github-contribution-grid-snake.svg">
-</picture>
+</div> -->
 
 ## Tecnologias 
 <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
@@ -32,8 +27,6 @@
 <a href="https://www.oracle.com/java/" target="_blank">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </a>
-
-
 
 ## IDE's:
 <div>
@@ -58,6 +51,12 @@
 ## Contatos
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattheus_fern/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-fernandes-dotcs/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ferning7/Ferning7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ferning7/Ferning7/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ferning7/Ferning7/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
