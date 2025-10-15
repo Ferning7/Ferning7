@@ -1,6 +1,6 @@
 ### Olá! me chamo Matheus Fernandes
 
-## Sou Técnico em Desenvolvimento de Sistemas e<br> estou cursando atualmente Assistente de Programação Web pela Stellantis
+## Sou Técnico em Desenvolvimento de Sistemas <br> Graduando em Análise e Desenvolvimento de Sistemas <br>e Cursando Assistente de Programação Web pela Stellantis
 ### [![Localização](https://upload.wikimedia.org/wikipedia/commons/e/ec/RedDot.svg)](https://www.google.com/maps/place/Belo+Horizonte) SENAI CTTI
 
 # Sobre Mim
